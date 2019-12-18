@@ -11,6 +11,7 @@
 #include<pthread.h>
 #include<limits.h>
 #include<sys/syscall.h>
+#include<semaphore.h>
 #define LOOP 1000000
 #define NUM 4
 #define TN 100
